@@ -4,7 +4,7 @@ module.exports = defineConfig({
 
 
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/w13-joke-generator/'
+    ? '/W14A/'
     : '/'
 
 })
